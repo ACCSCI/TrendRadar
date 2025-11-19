@@ -1,14 +1,20 @@
 Startup
+初创
 
 AI Native
 AI-Native
 ai social
+
+fullstack
+全栈
 
 YC
 Y Combinator
 
 Venture Capital
 VC
+风投
+风险投资
 
 DeepSeek
 梁文锋
