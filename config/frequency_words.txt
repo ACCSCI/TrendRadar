@@ -1,16 +1,15 @@
-胖东来
-于东来
 
 DeepSeek
 梁文锋
 
 华为
-鸿蒙
-HarmonyOS
-任正非
+
+Godot
 
 比亚迪
 王传福
+
+零跑
 
 大疆
 DJI
@@ -23,27 +22,10 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
 
 京东
 刘强东
+
 
 字节
 bytedance
@@ -51,6 +33,9 @@ bytedance
 
 特斯拉
 马斯克
+Elon Musk
+Spacex
+Tesla
 
 微软
 Microsoft
@@ -58,6 +43,7 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
+GPU
 
 AMD
 
@@ -70,6 +56,10 @@ chatgpt
 openai
 sora
 
+chatglm
+智谱
+autoglm
+
 claude
 Anthropic
 
@@ -80,6 +70,8 @@ ios
 
 ai
 !gai
+AGI
+Agent
 人工智能
 
 自动驾驶
@@ -100,8 +92,6 @@ ai
 
 核能
 
-水电站
-雅鲁藏布江
 
 新质生产力
 
